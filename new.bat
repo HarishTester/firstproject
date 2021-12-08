@@ -1,3 +1,3 @@
 @echo off 
-echo welcome to new world hi harish
+echo welcome to new house hi harish
 pause
